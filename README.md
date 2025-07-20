@@ -1,12 +1,87 @@
-# React + Vite
+Here's a `README.md` file suitable for your project named **recurring-date-picker**, structured professionally for GitHub:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+```markdown
+# 📅 Recurring Date Picker (React + Vite + Tailwind)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A fully customizable recurring date picker component built using **React**, **Vite**, and **Tailwind CSS**. This component allows users to select recurring dates like daily, weekly, monthly, or yearly, similar to the recurrence feature in calendar apps like TickTick or Google Calendar.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📆 **Date Range Selection**
+- 🔁 **Recurrence Options** (Daily, Weekly, Monthly, Yearly)
+- 🎨 **Customization Options** for styling and configuration
+- 🔍 **Preview Section** to visualize selected recurrence
+- ⚡ Built with **Vite** for blazing-fast development
+- 💅 Styled using **Tailwind CSS**
+
+## 🧩 Project Structure
+
+```
+
+recurring-date-picker/
+├── public/
+├── src/
+│   ├── assets/                # Static assets
+│   ├── components/            # UI Components
+│   │   ├── CalendarPreview\.jsx
+│   │   ├── CustomizationOptions.jsx
+│   │   ├── DateRangePicker.jsx
+│   │   ├── RecurrenceOptions.jsx
+│   │   └── RecurringDatePicker.jsx
+│   ├── store/                 # State management (Zustand or custom)
+│   ├── App.jsx                # Root App
+│   ├── main.jsx               # Entry point
+│   ├── App.css, index.css     # Global styles
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+
+````
+
+## 📦 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/recurring-date-picker.git
+cd recurring-date-picker
+````
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the Dev Server
+
+```bash
+npm run dev
+```
+
+The app will be available at `http://localhost:5173/` (or as shown in the terminal).
+
+---
+
+## 🛠 Tech Stack
+
+* **React** (with JSX)
+* **Vite** (frontend tooling)
+* **Tailwind CSS** (utility-first styling)
+* **Zustand** or simple JS store (for state management)
+
+---
+
+
+
+## ✨ Author
+
+**Siva Sai Reddy Malepati**
+
+> GitHub: https://github.com/SivaSaiReddy28
+> LinkedIn: www.linkedin.com/in/malepati-sivasaireddy 
+
+
