@@ -75,17 +75,3 @@ src/
 
 ---
 
-## 📄 License
-
-Licensed under the **MIT License** — use it freely in personal or commercial projects.
-
----
-
-> *Feel free to fork, improve, and contribute!*
-
-```
-
----
-
-✅ You can now paste this directly into your `README.md` file and push it to GitHub. Let me know if you want a downloadable `.md` file or an image preview section!
-```
