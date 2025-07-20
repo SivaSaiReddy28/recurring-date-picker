@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.react-calendar .highlight {
+  background-color: #3b82f6 !important; /* blue */
+  color: white !important;
+  border-radius: 50%;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2), 0 0 2px 0 rgba(0, 0, 0, 0.19);
+  transition: background-color 0.3s ease-in-out;
+  border: 1px solid #3b82f6;
+  border-radius: 50%;
+}
+
+.react-calendar{
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background-color: #6c3307;
+}
