@@ -1,9 +1,5 @@
-Sure! Here's a **single-section `README.md` file** you can directly copy and paste into your GitHub project — clean, professional, and ideal for quick posting:
 
----
-
-````markdown
-# 📅 Recurring Date Picker (React + Vite + Tailwind)
+## 📅 Recurring Date Picker (React + Vite + Tailwind)
 
 A customizable recurring date picker component built using **React**, **Vite**, and **Tailwind CSS**, allowing users to configure and preview recurrence options like Daily, Weekly, Monthly, or Yearly—similar to features in Google Calendar or TickTick.
 
