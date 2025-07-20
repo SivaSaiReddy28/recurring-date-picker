@@ -9,9 +9,12 @@ A customizable recurring date picker component built using **React**, **Vite**, 
 
 Clone the repository, install dependencies, and start the dev server in one go:
 
-```bash
-git clone https://github.com/SivaSaiReddy28/recurring-date-picker.git && cd recurring-date-picker && npm install && npm run dev
-````
+
+git clone https://github.com/SivaSaiReddy28/recurring-date-picker.git
+
+cd recurring-date-picker 
+
+npm install && npm run dev
 
 Then open your browser and navigate to:
 👉 `http://localhost:5173`
